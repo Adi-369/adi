@@ -1,2 +1,3 @@
 # adi
-Python
+I am learning at YBI Foundation
+Full stack
